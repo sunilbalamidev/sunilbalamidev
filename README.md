@@ -28,6 +28,59 @@ Welcome to my GitHub! I am a passionate developer dedicated to building efficien
 
 ## 🌟 **Projects Highlights**
 Here are some of my notable projects:
+## 💼 Job Tracker App
+A full-stack job application tracking system with modern UI, filtering, and analytics to help users manage their job search effectively.
+
+🔗 Links
+Live Demo: https://job-tracker-client-cqyn.onrender.com
+
+GitHub Repository: https://github.com/sunilbalamidev/job-tracker
+
+# ✨ Features
+🔐 Secure login with JWT and Google OAuth
+
+➕ Add, ✏️ Edit, and 🗑️ Delete job applications
+
+🔎 Filter by job status, type, and search by company or position
+
+📊 View job statistics via an interactive analytics dashboard
+
+⚙️ Manage user settings, including password and account deletion
+
+🎨 Responsive and animated modern UI with Tailwind CSS & Framer Motion
+
+# 🛠️ Tech Stack
+## Frontend:
+
+React
+
+Vite
+
+Tailwind CSS
+
+Framer Motion
+
+Axios
+
+React Router
+
+## Backend:
+
+Node.js
+
+Express.js
+
+MongoDB + Mongoose
+
+JSON Web Token (JWT)
+
+Google OAuth 2.0
+
+## DevOps:
+
+Render (Frontend & Backend)
+
+Environment variables via .env
 
 ### [Restaurant Table Booking System](https://github.com/sunilbalami/restaurant-booking-system)
 A React-based table reservation system for restaurants.
