@@ -1,121 +1,79 @@
+# 👋 Hi, I'm Sunil Balami  
 
-# 👋 Hi, I'm Sunil Balami!  
+🚀 **Software Engineer | API & Automation Specialist | AI-Driven Applications**  
 
-🚀 **Frontend Developer | Full Stack Enthusiast | Lifelong Learner**  
+Welcome to my GitHub! I build **real-world web applications** with a strong focus on  
+🔹 API Integrations,  
+🔹 Automation, and  
+🔹 AI-enhanced features.  
 
-Welcome to my GitHub! I am a passionate developer dedicated to building efficient, scalable, and user-friendly web applications. With a knack for solving problems and a love for clean code, I enjoy turning ideas into reality through development.  
+With a background in Interactive Media (ICT) and hands-on development experience at **MESHED Group**, I bring both technical depth and creativity to problem-solving. My goal is to design systems that are **scalable, efficient, and impactful**.  
 
 ---
 
 ## 🔧 **Tech Stack**
 
-### **Frontend**
-- JavaScript (ES6+), TypeScript, React.js  
-- HTML5, CSS3, Bootstrap, Tailwind  
-
-### **Backend**
-- Node.js, Express.js, Python, Django  
-
-### **Databases**
-- MongoDB, MySQL, PostgreSQL  
-
-### **Tools & DevOps**
-- Git, GitHub, GitFlow  
-- AWS, Azure, Google Cloud  
-- REST APIs, CI/CD Pipelines  
+### **Core Skills**
+- **Languages & Frameworks:** JavaScript (ES6+), React.js, Node.js, Express.js, TypeScript  
+- **Databases:** MongoDB, MySQL, PostgreSQL  
+- **Styling:** Tailwind CSS, Bootstrap, Responsive UI/UX  
+- **APIs & Integration:** REST APIs, Google OAuth, DocuSign, Twilio, SendGrid  
+- **Automation & AI:** GPT integration, Workflow Automation, Data Processing  
+- **Testing:** Jest, React Testing Library  
+- **Tools & DevOps:** Git, GitHub, AWS, Render, Vercel, CI/CD Pipelines  
 
 ---
 
-## 🌟 **Projects Highlights**
-Here are some of my notable projects:
-## 💼 Job Tracker App
-A full-stack job application tracking system with modern UI, filtering, and analytics to help users manage their job search effectively.
+## 🌟 **Highlighted Projects**
 
-🔗 Links
-Live Demo: https://job-tracker-client-cqyn.onrender.com
+### 💼 [Job Tracker App](https://github.com/sunilbalamidev/job-tracker)  
+A full-stack application to manage job applications with filtering, analytics, and OAuth login.  
 
-GitHub Repository: https://github.com/sunilbalamidev/job-tracker
+**🔑 Features**  
+- 🔐 Secure login (JWT + Google OAuth 2.0)  
+- ➕ Add, ✏️ Edit, 🗑️ Delete job applications  
+- 🔎 Advanced filters + search  
+- 📊 Analytics dashboard with job status breakdown  
+- 🎨 Modern UI (Tailwind + Framer Motion animations)  
+- ☁️ Deployed on Render (backend) & Vercel (frontend)  
 
-# ✨ Features
-🔐 Secure login with JWT and Google OAuth
-
-➕ Add, ✏️ Edit, and 🗑️ Delete job applications
-
-🔎 Filter by job status, type, and search by company or position
-
-📊 View job statistics via an interactive analytics dashboard
-
-⚙️ Manage user settings, including password and account deletion
-
-🎨 Responsive and animated modern UI with Tailwind CSS & Framer Motion
-
-# 🛠️ Tech Stack
-## Frontend:
-
-React
-
-Vite
-
-Tailwind CSS
-
-Framer Motion
-
-Axios
-
-React Router
-
-## Backend:
-
-Node.js
-
-Express.js
-
-MongoDB + Mongoose
-
-JSON Web Token (JWT)
-
-Google OAuth 2.0
-
-## DevOps:
-
-Render (Frontend & Backend)
-
-Environment variables via .env
-
-### [Restaurant Table Booking System](https://github.com/sunilbalami/restaurant-booking-system)
-A React-based table reservation system for restaurants.
-- **Features:** Clean UI, dynamic table availability, user-friendly booking process.
-- **Stack:** React, Node.js, MongoDB, REST APIs  
-
-### [E-commerce Website](https://github.com/sunilbalami/ecommerce-website)
-A responsive e-commerce platform with payment integration.
-- **Features:** Product listing, shopping cart, Stripe/PayPal integration.
-- **Stack:** React, Node.js, Express.js, MongoDB  
-
-Feel free to explore my second github account [GitHub repositories](https://github.com/sunilbalami) for more projects!
+**Stack:** React, Vite, Node.js, Express, MongoDB, Tailwind CSS  
 
 ---
 
-## 📚 **Currently Learning**
-- **Redux Toolkit**: For managing state effectively in React applications.  
-- **Django REST Framework (DRF)**: To build robust APIs for backend services.  
+### 🤖 AI Meeting Notes Summarizer *(Work in Progress)*  
+AI-powered tool that converts meeting audio → structured summaries + action items.  
+
+**Tech:** React, Node.js, Express, OpenAI/GPT API, MongoDB  
+
+---
+
+### 🛒 [E-commerce Website](https://github.com/sunilbalami/ecommerce-website)  
+Responsive store with payments and product management.  
+
+**Stack:** React, Node.js, Express, MongoDB, Stripe  
+
+---
+
+### 🍽️ [Restaurant Table Booking System](https://github.com/sunilbalami/restaurant-booking-system)  
+Online booking app with clean UI and live table availability.  
+
+**Stack:** React, Node.js, MongoDB, REST APIs  
+
+---
+
+## 📚 **Currently Exploring**
+- **AI + Automation:** GPT integrations, AI agents for workflow automation  
+- **API-First Development:** Secure, scalable services  
+- **Cloud Deployments:** Serverless & CI/CD pipelines  
 
 ---
 
 ## 🌐 **Connect with Me**
-- **LinkedIn**: [linkedin.com/in/sunilbalami](https://www.linkedin.com/in/sunilbalami/)  
-- **Portfolio**: [sunilbalami.dev](#) (coming soon!)  
-- **GitHub**: [github.com/sunilbalami](https://github.com/sunilbalami)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sunilbalami/)  
+- 💻 [GitHub](https://github.com/sunilbalamidev)  
+- ✉️ sunil.balami.dev@gmail.com  
 
 ---
 
-💡 **Fun Fact**: I enjoy debugging and consider every bug a chance to grow!  
-
----
-
-### 💬 **Let’s Collaborate!**
-Feel free to reach out for collaboration on exciting projects or just to say hi. Let’s build something amazing together!
-
----
-
-
+💡 *I see every project as an opportunity to solve a **real problem** with tech. Let's collaborate and build something impactful together!*  
