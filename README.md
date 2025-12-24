@@ -1,79 +1,81 @@
-# 👋 Hi, I'm Sunil Balami  
+# 👋 Hi, I’m Sunil Balami
 
-🚀 **Software Engineer | API & Automation Specialist | AI-Driven Applications**  
+🚀 **Software Engineer | Integration & Automation Specialist | AI-Driven Systems**
 
-Welcome to my GitHub! I build **real-world web applications** with a strong focus on  
-🔹 API Integrations,  
-🔹 Automation, and  
-🔹 AI-enhanced features.  
+Welcome to my GitHub 👋  
+I build **production-grade web applications** with a strong focus on:
 
-With a background in Interactive Media (ICT) and hands-on development experience at **MESHED Group**, I bring both technical depth and creativity to problem-solving. My goal is to design systems that are **scalable, efficient, and impactful**.  
+- 🔗 API integrations & system interoperability  
+- ⚙️ Workflow automation & backend services  
+- 🤖 AI-enhanced features for real-world use cases  
+
+💻 **Portfolio:** https://sunilbalami-portfolio.vercel.app  
+
+With a background in **Interactive Media (ICT)** and hands-on industry experience at **MESHED Group**, I combine clean front-end engineering with robust backend logic to deliver **scalable, reliable, and maintainable systems**.
 
 ---
 
-## 🔧 **Tech Stack**
+## 🔧 Tech Stack
 
-### **Core Skills**
-- **Languages & Frameworks:** JavaScript (ES6+), React.js, Node.js, Express.js, TypeScript  
-- **Databases:** MongoDB, MySQL, PostgreSQL  
-- **Styling:** Tailwind CSS, Bootstrap, Responsive UI/UX  
-- **APIs & Integration:** REST APIs, Google OAuth, DocuSign, Twilio, SendGrid  
-- **Automation & AI:** GPT integration, Workflow Automation, Data Processing  
+### Core Technologies
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Node.js, Express  
+- **Databases:** MongoDB, PostgreSQL, MySQL  
+- **Styling & UI:** Tailwind CSS, Bootstrap, Responsive UI/UX  
+- **APIs & Integrations:** REST APIs, OAuth 2.0, DocuSign, Twilio, SendGrid  
+- **Automation & AI:** GPT/OpenAI APIs, workflow automation, data processing  
 - **Testing:** Jest, React Testing Library  
-- **Tools & DevOps:** Git, GitHub, AWS, Render, Vercel, CI/CD Pipelines  
+- **DevOps & Tools:** Git, GitHub, AWS, Vercel, Render, CI/CD pipelines  
 
 ---
 
-## 🌟 **Highlighted Projects**
+## 🌟 Featured Projects
 
-### 💼 [Job Tracker App](https://github.com/sunilbalamidev/job-tracker)  
-A full-stack application to manage job applications with filtering, analytics, and OAuth login.  
+### 💼 Job Tracker App  
+🔗 https://github.com/sunilbalamidev/job-tracker  
 
-**🔑 Features**  
-- 🔐 Secure login (JWT + Google OAuth 2.0)  
-- ➕ Add, ✏️ Edit, 🗑️ Delete job applications  
-- 🔎 Advanced filters + search  
-- 📊 Analytics dashboard with job status breakdown  
-- 🎨 Modern UI (Tailwind + Framer Motion animations)  
+A full-stack application to manage job applications with authentication, analytics, and automation-ready architecture.
+
+**Key Features**
+- 🔐 Secure authentication (JWT + Google OAuth 2.0)  
+- ➕ Add, ✏️ edit, 🗑️ delete job applications  
+- 🔎 Advanced filtering and search  
+- 📊 Analytics dashboard with job status insights  
+- 🎨 Modern UI with Tailwind CSS & animations  
 - ☁️ Deployed on Render (backend) & Vercel (frontend)  
 
-**Stack:** React, Vite, Node.js, Express, MongoDB, Tailwind CSS  
+**Tech Stack:** React, Vite, Node.js, Express, MongoDB, Tailwind CSS  
 
 ---
 
-### 🤖 AI Meeting Notes Summarizer *(Work in Progress)*  
-AI-powered tool that converts meeting audio → structured summaries + action items.  
+### 🤖 AI Job Scanner & Email Automation  
+🔗 https://github.com/sunilbalamidev/Job_Application_Scanner
 
-**Tech:** React, Node.js, Express, OpenAI/GPT API, MongoDB  
+AI-powered automation that scans job-related emails and extracts structured job data for tracking and follow-ups.
 
----
+**Key Features**
+- 📥 Gmail/email ingestion & parsing  
+- 🤖 GPT-powered job detail extraction  
+- 🧠 Smart categorisation (role, company, status)  
+- ⚙️ Automation-ready pipeline for job tracking systems  
 
-### 🛒 [E-commerce Website](https://github.com/sunilbalami/ecommerce-website)  
-Responsive store with payments and product management.  
-
-**Stack:** React, Node.js, Express, MongoDB, Stripe  
-
----
-
-### 🍽️ [Restaurant Table Booking System](https://github.com/sunilbalami/restaurant-booking-system)  
-Online booking app with clean UI and live table availability.  
-
-**Stack:** React, Node.js, MongoDB, REST APIs  
+**Tech Stack:** Node.js, Express, OpenAI/GPT API, Email APIs, MongoDB  
 
 ---
 
-## 📚 **Currently Exploring**
-- **AI + Automation:** GPT integrations, AI agents for workflow automation  
-- **API-First Development:** Secure, scalable services  
-- **Cloud Deployments:** Serverless & CI/CD pipelines  
+## 📚 Currently Exploring
+- 🤖 AI agents & GPT-powered workflow automation  
+- 🔐 Secure, API-first backend architectures  
+- ☁️ Cloud-native deployments & CI/CD optimisation  
 
 ---
 
-## 🌐 **Connect with Me**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sunilbalami/)  
-- 💻 [GitHub](https://github.com/sunilbalamidev)  
-- ✉️ sunil.balami.dev@gmail.com  
+## 🌐 Connect With Me
+- 💻 **Portfolio:** https://sunilbalami-portfolio.vercel.app  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/sunilbalami/  
+- 💻 **GitHub:** https://github.com/sunilbalamidev  
+- ✉️ **Email:** sunil.balami.dev@gmail.com  
 
 ---
 
-💡 *I see every project as an opportunity to solve a **real problem** with tech. Let's collaborate and build something impactful together!*  
+💡 *I enjoy turning complex requirements into clean, scalable solutions.  
+If you’re building something interesting or need help with integrations, let’s connect.*
